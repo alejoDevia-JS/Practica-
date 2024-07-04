@@ -1,0 +1,38 @@
+body{
+    background-image: url(space.jpg.jpg);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+   
+    
+}
+
+.container{
+    border-radius: 5px;
+    margin-top: 150px;
+    background-color: #186186;
+    text-align: center;
+    width: 350px;
+    height: 450px;
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+.buttom{
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #4284ab;
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.buttom:hover{
+    border-radius: 5px;
+    font-size: 15px;
+    
+
+}
+
